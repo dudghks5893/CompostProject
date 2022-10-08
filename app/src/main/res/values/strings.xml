@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CompostProject</string>
+    <string name="top_bar_text">리스트입니다</string>
 </resources>
